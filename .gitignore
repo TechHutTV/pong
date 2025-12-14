@@ -1,0 +1,12 @@
+# Binary
+pong
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# OS files
+.DS_Store
+Thumbs.db
